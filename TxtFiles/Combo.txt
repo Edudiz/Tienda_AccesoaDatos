@@ -1,0 +1,6 @@
+RAM
+CPU
+MotherBoard
+VideoCard
+HardDisk
+Tower
